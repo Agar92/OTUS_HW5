@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.15)
 set(PATCH_VERSION "1" CACHE INTERNAL "Patch version")
 set(PROJECT_VERSION 0.0.${PATCH_VERSION})
 
-project(MVC LANGUAGES CXX VERSION ${PROJECT_VERSION})
+project(mvc LANGUAGES CXX VERSION ${PROJECT_VERSION})
 
 configure_file(version.h.in version.h @ONLY)
 
