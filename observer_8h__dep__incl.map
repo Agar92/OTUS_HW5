@@ -1,0 +1,10 @@
+<map id="observer.h" name="observer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,5,122,31"/>
+<area shape="rect" id="Node000002" href="$model_8h.html" title=" " alt="" coords="5,79,72,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,46,48,80,43,77,64,43"/>
+<area shape="rect" id="Node000004" href="$view_8h.html" title=" " alt="" coords="96,79,154,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="99,43,120,77,115,80,94,46"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html" title="File with definition of Controller and main() function." alt="" coords="45,153,118,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="56,116,76,151,72,154,51,119"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="112,119,91,154,86,151,108,116"/>
+</map>

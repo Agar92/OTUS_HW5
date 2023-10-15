@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classIPrimitive.html" title="Interface for a geometric primitive object." alt="" coords="5,56,82,82"/>
+<area shape="rect" id="Node000001" href="$classCircle.html" title="Circle geometric primitive class." alt="" coords="136,31,191,56"/>
+<area shape="poly" id="edge3_Node000000_Node000001" title=" " alt="" coords="96,55,135,47,136,52,97,60"/>
+<area shape="rect" id="Node000002" href="$classPolygon.html" title="Interface for polygon geometric primitive objects." alt="" coords="130,80,197,106"/>
+<area shape="poly" id="edge4_Node000000_Node000002" title=" " alt="" coords="97,77,130,83,129,89,96,82"/>
+<area shape="rect" id="Node000003" href="$classLine.html" title="Line geometric primitive class." alt="" coords="262,5,308,31"/>
+<area shape="poly" id="edge5_Node000002_Node000003" title=" " alt="" coords="197,69,244,40,260,29,263,34,246,44,200,74"/>
+<area shape="rect" id="Node000004" href="$classRectangle.html" title="Rectangle geometric primitive class." alt="" coords="245,55,324,80"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="211,80,244,73,245,78,212,85"/>
+<area shape="rect" id="Node000005" href="$classSquare.html" title="Square geometric primitive class." alt="" coords="254,104,316,130"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="213,100,254,108,252,113,212,105"/>
+<area shape="rect" id="Node000006" href="$classTriangle.html" title="Triangle geometric primitive class." alt="" coords="251,153,318,179"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="200,112,263,151,260,155,198,116"/>
+</map>
