@@ -21,7 +21,7 @@ target_compile_options(${PROJECT_NAME}
         					-g
 )
 
-set(CMAKE_INSTALL_PREFIX "./includeeeee/")
+set(CMAKE_INSTALL_PREFIX "./install")
 
 install(TARGETS ${PROJECT_NAME} RUNTIME DESTINATION bin)
 file(GLOB headers "*.h")
